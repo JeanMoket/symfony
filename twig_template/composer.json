@@ -1,0 +1,13 @@
+{
+    "name": "jrmok/twig_template",
+    "authors": [
+        {
+            "name": "jmoket"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^2.0",
+        "espero-soft/faker": "dev-master"
+    }
+}
